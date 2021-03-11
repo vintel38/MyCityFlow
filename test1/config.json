@@ -4,7 +4,7 @@
 	"dir": "test1/",
 	"roadnetFile": "roadnet11.json", 
 	"flowFile": "flow11.json", 
-	"rlTrafficLight": false,
+	"rlTrafficLight": true,
 	"laneChange": false,
 	"saveReplay": true,
 	"roadnetLogFile": "replay_roadnet11.json", 
